@@ -1,5 +1,6 @@
 # strapi-plugin-page-builder
 Add GrapesJS builder to your own strapi application
+This is simple pagebuilder for Strapi
 
 ![Webpage builder demo](/admin/src/components/GrapesEditor/assets/img/demo.png)
 
